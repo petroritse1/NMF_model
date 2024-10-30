@@ -4,4 +4,4 @@ venv
 scripts/
 include/
 lib/
-
+.gitignore
